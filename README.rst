@@ -1,3 +1,5 @@
+FORK: for Django 1.11 support, when you don't need GDAL support.
+
 ===============
 django-tastypie
 ===============
